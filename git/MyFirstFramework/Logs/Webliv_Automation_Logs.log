@@ -1,0 +1,27 @@
+11-09-2017 16:13:11 INFO [TestResultListener]: - - - - - Test verifyPublishedFormLabelTextIsDisplayed in com.vitalii.vitaliiFramework2.tests.LoginPageTestsWD class has STARTED - - - - -
+11-09-2017 16:13:11 INFO [WebDriverThread]: ! ========== New Driver instance is created ============= !
+11-09-2017 16:13:17 INFO [Browser]: Opening https://hq.test.igniteaction.net
+11-09-2017 16:13:23 INFO [Browser]: Locating element with the following locator: //*[@id='password']
+11-09-2017 16:13:23 INFO [Browser]: Locating element with the following locator: //*[@id='email']
+11-09-2017 16:13:23 INFO [TextField]: Typing ir2.0bb16be1@mailosaur.in into Email text field
+11-09-2017 16:13:23 INFO [Browser]: Locating element with the following locator: //*[@id='email']
+11-09-2017 16:13:23 INFO [TextField]: Email text field with locator //*[@id='email'] was clicked.
+11-09-2017 16:13:25 INFO [Browser]: Locating element with the following locator: //*[@id='password']
+11-09-2017 16:13:25 INFO [TextField]: Typing qwerty into Password text field
+11-09-2017 16:13:25 INFO [Browser]: Locating element with the following locator: //*[@id='password']
+11-09-2017 16:13:25 INFO [TextField]: Password text field with locator //*[@id='password'] was clicked.
+11-09-2017 16:13:25 INFO [Browser]: Locating element with the following locator: //button
+11-09-2017 16:13:25 INFO [Button]: Login button with locator //button was clicked.
+11-09-2017 16:13:29 INFO [Browser]: Locating element with the following locator: //a[@href='/#/activities']//span
+11-09-2017 16:13:29 INFO [Button]: Activities label with locator //a[@href='/#/activities']//span was clicked.
+11-09-2017 16:13:30 INFO [Browser]: Locating element with the following locator: //*[@autotest-id='SUBSCRIBE'][1]
+11-09-2017 16:13:31 INFO [Button]: Sign-Up Forms Tab Label with locator //*[@autotest-id='SUBSCRIBE'][1] was clicked.
+11-09-2017 16:13:31 INFO [Browser]: Locating element with the following locator: //*[@autotest-id='btn_create_subscribe_form_forms_dashboard']
+11-09-2017 16:13:32 INFO [Button]: Create new signup form button with locator //*[@autotest-id='btn_create_subscribe_form_forms_dashboard'] was clicked.
+11-09-2017 16:13:33 INFO [Browser]: Locating element with the following locator: //*[@id='activityForm']/div[3]/div/div[2]/div/validation-message/div/span/input
+11-09-2017 16:13:33 INFO [TextField]: Typing 20170911161332 into Signup form name text field
+11-09-2017 16:13:33 INFO [Browser]: Locating element with the following locator: //*[@id='activityForm']/div[3]/div/div[2]/div/validation-message/div/span/input
+11-09-2017 16:13:33 INFO [TextField]: Signup form name text field with locator //*[@id='activityForm']/div[3]/div/div[2]/div/validation-message/div/span/input was clicked.
+11-09-2017 16:13:33 INFO [Browser]: Locating element with the following locator: //*[@id='btnGo-setup-compose']
+11-09-2017 16:13:33 INFO [Button]: The basics tab Next button with locator //*[@id='btnGo-setup-compose'] was clicked.
+11-09-2017 16:13:40 INFO [TestResultListener]: - - - - - Test verifyPublishedFormLabelTextIsDisplayed in com.vitalii.vitaliiFramework2.tests.LoginPageTestsWD class has PASSED - - - - -

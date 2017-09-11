@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.guava:guava:24.0-android-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/24.0-android-SNAPSHOT/guava-24.0-android-20170823.204433-50.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/24.0-android-SNAPSHOT/guava-24.0-android-20170823.204433-50-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/24.0-android-SNAPSHOT/guava-24.0-android-20170823.204433-50-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

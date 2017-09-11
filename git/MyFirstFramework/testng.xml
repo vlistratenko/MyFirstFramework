@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="methods" thread-count="2" verbose="10">
+	<parameter name="userEmailAddress" value="ir2.0bb16be1@mailosaur.in"></parameter>
+	<parameter name="userPassword" value="qwerty"></parameter>
+	<listeners>
+		<listener class-name="com.vitalii.vitaliiFramework2.listeners.RetryListener" />
+	</listeners>
+	<test name="Test">
+		<classes>
+			<class name="com.vitalii.vitaliiFramework2.tests.LoginPageTestsWD" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

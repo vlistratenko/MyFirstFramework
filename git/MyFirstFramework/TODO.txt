@@ -1,0 +1,22 @@
+TODO list:
+DONE - tune logging (specify correct log levels, make sure its configurable in a file or code). At this point extra logs appear and pollute logs
+2 - use listener in BaseTest class only (at this point I also specify it in testng.xml, otherwise test does not work)
+3 - store locators in txt file and parse it
+4 - sync with JDBC
+DONE: 5 - connect to git
+6 - Allure test report
+7 - think about implementation of WebDriverEventListener >> implement logging on some actions at listener level
+8 - integration with SoapUI & JMeter
+DONE: 9 - сделать внутренний класс в Waiters.class для того, чтоб собрать ошибки в один метод
+10 - реализовать Case/switch с помощью Lambda
+11 - разобраться с https://github.com/sskorol/selenium-camp-17
+12 - refactor assertions and remove try/catch
+13 - написать тесты с переключением на другие окна
+14 - использовать Java 8, streams, lambdas
+15 - Drag and Drop in FromBuilder
+16 - Investigate framework with elements (vs Selenide)
+17 - ignore InvalidElementStateException
+18 - HTTP request
+19 - mailosaur integration
+20 - remove try/catch on each driver constructor
+21 - learn Email libraries

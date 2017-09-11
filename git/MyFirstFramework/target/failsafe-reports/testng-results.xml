@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30031" started-at="2017-08-28T14:52:30Z" finished-at="2017-08-28T14:53:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30031" started-at="2017-08-28T14:52:30Z" finished-at="2017-08-28T14:53:00Z">
+      <class name="com.vitalii.vitaliiFramework2.tests.LoginPageTestsWD">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.vitalii.vitaliiFramework2.tests.LoginPageTestsWD@4cb2c100]" name="beforeSuite" is-config="true" duration-ms="7" started-at="2017-08-28T17:52:30Z" finished-at="2017-08-28T17:52:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="verifyPublishedFormLabelTextIsDisplayed(java.lang.String, java.lang.String)[pri:0, instance:com.vitalii.vitaliiFramework2.tests.LoginPageTestsWD@4cb2c100]" name="verifyPublishedFormLabelTextIsDisplayed" duration-ms="30008" started-at="2017-08-28T17:52:30Z" finished-at="2017-08-28T17:53:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ir2.0bb16be1@mailosaur.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwerty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPublishedFormLabelTextIsDisplayed -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.vitalii.vitaliiFramework2.tests.LoginPageTestsWD@4cb2c100]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-08-28T17:52:30Z" finished-at="2017-08-28T17:52:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.vitalii.vitaliiFramework2.tests.LoginPageTestsWD@4cb2c100]" name="clearCookies" is-config="true" duration-ms="14" started-at="2017-08-28T17:53:00Z" finished-at="2017-08-28T17:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+      </class> <!-- com.vitalii.vitaliiFramework2.tests.LoginPageTestsWD -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
